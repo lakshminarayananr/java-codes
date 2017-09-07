@@ -1,1 +1,1 @@
-pow(input**powervalue)
+print(input**powervalue)
